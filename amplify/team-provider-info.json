@@ -22,7 +22,7 @@
         },
         "bookstored67c3c60": {
           "deploymentBucketName": "amplify-bookstore-dev-10842-deployment",
-          "s3Key": "amplify-builds/bookstored67c3c60-742f5451616734617541-build.zip"
+          "s3Key": "amplify-builds/bookstored67c3c60-3843775a52596a487353-build.zip"
         }
       }
     }
